@@ -31,6 +31,12 @@ gem 'jquery-rails'
 # Add SimpleForm
 gem 'simple_form'
 
+# Add User Autentication using Devise
+gem 'devise'
+
+# Add Facebook Authentication
+gem 'omniauth-facebook'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
